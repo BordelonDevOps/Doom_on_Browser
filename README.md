@@ -11,7 +11,7 @@ Visit (https://github.com/BordelonDevOps/Doom_on_Browser/edit/main/README.md)to 
 
 ## User Manual
 You might want to know on how to play the game first before playing.<br>
-Consider visiting https://github.com/BordelonDevOps/Doom_on_Browser/edit/main/README.mdmain/MANUAL.MD first before playing.
+Consider visiting https://github.com/BordelonDevOps/Doom_on_Browser/
 
 ## License
 This software uses the MIT License. Please visit the link below to view the full license terms.<br>
