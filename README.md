@@ -1,20 +1,18 @@
-[Go back to the game](https://github.com/BordelonDevOps/Doom_on_Browser)
-
 <img src="android-chrome-192x192.png" width="128px" height="128px">
 
-# DOOM on JS-DOS User Manual
-To Play DOOM on JS-DOS visit https://github.com/BordelonDevOps/Doom_on_Browser then do the following:<br>
-1.) Click the button named "Click to start" then wait for the game to load.<br>
-2.) After loading press any of the move keys indicated on the Game Controls section.<br>
-3.) The game menu should appear then navigate using the move keys indicated on the Game Controls section.<br>
-4.) Enjoy!
+# DOOM on JS-DOS
+Play the classic "THE ULTIMATE DOOM" in your web browser today via JS-DOS.
 
-## Game Controls
-Move: UP, DOWN, LEFT, RIGHT<br>
-Use: W<br>
-Fire: S<br>
-Speed on: SPACE<br>
-Strafe on: ALT<br>
-Strafe: A, D
-Change Weapon: 1, 2, 3, 4, 5, 6, 7
+## Special Note
+Only works on Desktop/PC/Laptop/Mac environments. Does not work on mobile devices like Android, iOS, KaiOS and more.
 
+## Play Now!
+Visit https://thedoggybrad.github.io/doom_on_js-dos/ to play!
+
+## User Manual
+You might want to know on how to play the game first before playing.<br>
+Consider visiting https://github.com/thedoggybrad/doom_on_js-dos/blob/main/MANUAL.MD first before playing.
+
+## License
+This software uses the MIT License. Please visit the link below to view the full license terms.<br>
+https://github.com/thedoggybrad/doom_on_js-dos/blob/main/LICENSE
