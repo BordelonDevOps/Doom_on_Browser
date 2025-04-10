@@ -1,9 +1,9 @@
-[Go back to the game](https://github.com/BordelonDevOps/Doom_on_Browser)
+[Go back to the game](https://bordelondevops.github.io/Doom_on_Browser/)
 
 <img src="android-chrome-192x192.png" width="128px" height="128px">
 
 # DOOM on JS-DOS User Manual
-To Play DOOM on JS-DOS visit https://github.com/BordelonDevOps/Doom_on_Browser then do the following:<br>
+To Play DOOM on JS-DOS visit https://bordelondevops.github.io/Doom_on_Browser/ then do the following:<br>
 1.) Click the button named "Click to start" then wait for the game to load.<br>
 2.) After loading press any of the move keys indicated on the Game Controls section.<br>
 3.) The game menu should appear then navigate using the move keys indicated on the Game Controls section.<br>
